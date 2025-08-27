@@ -4,7 +4,7 @@
 
 Este proyecto tiene como objetivo automatizar el proceso de análisis y filtrado de currículums (CVs) para optimizar la selección de candidatos en el ámbito de Recursos Humanos. Utilizando herramientas de automatización, se busca reducir el tiempo de revisión manual y mejorar la eficiencia en la gestión de CVs.
 
-![Análisis de CVs](images/analisis_cvs.png)
+![Análisis de CVs] [images/analisis_cvs.png](https://github.com/Fabricio-Ledesma/AutomatedCvs/tree/df35c8728ce5d24da4f287f94439f537524de97f/images)
 
 ## Problema
 
